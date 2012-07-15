@@ -47,7 +47,6 @@ public class OptimalExpression {
 	public static String result = null;
 	
 	/**
-	 * 
 	 * prints the final optimal expression
 	 */
 	private static String getResult(String expression, int numberOfOperators) {
