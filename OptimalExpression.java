@@ -1,8 +1,12 @@
 
-// 	Find an optimal solution for the expression 
-//      given is an expression without using "("and")" i.e no priority on operation.The program should do operations prioritizing in all
-//      possible ways 
-// 	input : 5-3*4+6 should give the output (5-3)*(4-6) out of all other possibilities, (5-(3*4))+6 , 5-((3*4)+6) ... 
+/** 
+ * 	Find an optimal solution for the expression 
+ *    	Input: Is an expression without using "("and")" i.e no priority on operation.
+ *	Output: The program should do operations prioritizing in all possible ways and return an expression which gives an optimal result.
+ *	Example:
+ *	Input : 5-3*4+6 
+ * 	Output: (5-3)*(4-6) out of all other possibilities, (5-(3*4))+6 , 5-((3*4)+6) ... 
+ */
 import java.util.ArrayList;
 import java.util.Scanner;
 
