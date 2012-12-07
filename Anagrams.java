@@ -5,7 +5,6 @@ import java.util.Map;
 import java.util.Scanner;
 
 //	1.8 :  Finding Anagrams in the given dictionary. 
-// use java generics from JDK 1.6
 /**
  * @author sandeeprv 
  */
